@@ -1,15 +1,35 @@
+* {
+  border: 1px solid black;
+}
+ul, ul li {
+  list-style-type: none;
+}
+li {
+  display: inline-block;
+}
+
 .octocat img {
   border: 1px solid grey;
   height: 250px;
   width: 250px;
-  margin: 15px;
+  margin:  5px;
+}
+
+.image-number {
+  float: left;
+}
+
+.image-caption {
+  float: right;
+}
+
+.authors {
+  float: right;
 }
 
 .authors img {
   height: 15px;
   width: 15px;
-}
-
-.image-footer {
-  position: absolute;
+  margin: 1px;
+  padding: 0;
 }
