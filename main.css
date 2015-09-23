@@ -13,12 +13,14 @@ a {
 }
 
 span {
-  color: #959595;
+  color: #595959;
 }
 
 .octocat {
   border-bottom: 1px solid #C4C4C4;
-  margin: 10px;
+  margin: 5px;
+  padding-bottom: 3px;
+
 }
 
 .octocat img {
@@ -26,17 +28,18 @@ span {
   height: 250px;
   width: 250px;
   margin:  0px;
+  margin-bottom: 3px;
 }
 
 .image-number {
   float: left;
-  font-size: small;
+  font-size: 11px;
   color: #C4C4C4;
 }
 
 .image-caption {
   float: right;
-  font-size: small;
+  font-size: 11px;
 }
 
 .authors {
