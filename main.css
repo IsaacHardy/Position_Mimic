@@ -4,32 +4,47 @@
 ul, ul li {
   list-style-type: none;
 }
+
 li {
   display: inline-block;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+}
+
+.octocat {
+  padding-right: 10px;
 }
 
 .octocat img {
   border: 1px solid grey;
   height: 250px;
   width: 250px;
-  margin:  5px;
+  margin:  0px;
 }
 
 .image-number {
   float: left;
+  font-size: small;
 }
 
 .image-caption {
   float: right;
+  font-size: small;
 }
 
 .authors {
   float: right;
+  margin: 0;
+  padding-left: 7px;
 }
 
 .authors img {
   height: 15px;
   width: 15px;
-  margin: 1px;
+  margin: 0;
   padding: 0;
 }
+
