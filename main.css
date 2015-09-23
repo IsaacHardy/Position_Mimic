@@ -1,0 +1,15 @@
+.octocat img {
+  border: 1px solid grey;
+  height: 250px;
+  width: 250px;
+  margin: 15px;
+}
+
+.authors img {
+  height: 15px;
+  width: 15px;
+}
+
+.image-footer {
+  position: absolute;
+}
