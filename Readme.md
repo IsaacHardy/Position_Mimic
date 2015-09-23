@@ -1,6 +1,6 @@
 #Position Mimic
 
-###In this project, I was given a webpage ([Linked Here](https://github.com/tiy-atl-js-sept-2015/Assignments/blob/master/Assignment-03/octodex.png)) and was asked to create a duplicate copy on my own. 
+####In this project, I was given a webpage ([Linked Here](https://github.com/tiy-atl-js-sept-2015/Assignments/blob/master/Assignment-03/octodex.png)) and was asked to create a duplicate copy on my own. 
 
 ##Practices used to perform this task:
 
