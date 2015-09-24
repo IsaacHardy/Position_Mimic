@@ -44,13 +44,17 @@ li.octocat:after {
     content: "";
     position: absolute;
     bottom: 31px;
-    margin-left: 222px;
+    margin-left: 218px;
 }
 
 .image-number {
   float: left;
   font-size: 11px;
   color: #C4C4C4;
+}
+
+.image-number:before {
+  content: "#";
 }
 
 .image-caption {
